@@ -1,0 +1,30 @@
+First All list of Encryption Algorithms i.e. :-
+
+
+
+Cryptographic Algorithms
+
+There are of course a wide range of cryptographic algorithms in use. The following are amongst the most well known:
+
+
+DES
+This is the 'Data Encryption Standard'. This is a cipher that operates on 64-bit blocks of data, using a 56-bit key. It is a 'private key' system.
+
+RSA
+RSA is a public-key system designed by Rivest, Shamir, and Adleman.
+HASH
+A 'hash algorithm' is used for computing a condensed representation of a fixed length message/file. This is sometimes known as a 'message digest', or a 'fingerprint'..
+
+MD5
+MD5 is a 128 bit message digest function. It was developed by Ron Rivest.
+
+AES
+This is the Advanced Encryption Standard (using the Rijndael block cipher) approved by NIST.
+
+SHA-1
+SHA-1 is a hashing algorithm similar in structure to MD5, but producing a digest of 160 bits (20 bytes).Because of the large digest size, it is less likely that two different messages will have the same SHA-1 message digest. For this reason SHA-1 is recommended in preference to MD5.
+
+HMAC
+HMAC is a hashing method that uses a key in conjunction with an algorithm such as MD5 or SHA-1. Thus one can refer to HMAC-MD5 and HMAC-SHA1.
+
+ 
